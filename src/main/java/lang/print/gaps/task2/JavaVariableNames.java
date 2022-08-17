@@ -5,7 +5,7 @@ public class JavaVariableNames {
         int tomorrow = 0;
         int money = 10;
         int hundred = 100;
-        int thousand = 1000;
+        int back = 1000;
         int underscore = 10000;
         int sharp = 100000;
         int star = 1000000;
